@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "cross-env TS_NODE_PROJECT=\"tsconfig.json\" webpack serve"
+    "dev": "cross-env TS_NODE_PROJECT=\"tsconfig.json\" webpack serve",
+    "build": "cross-env TS_NODE_PROJECT=\"tsconfig.json\" webpack build",
+    "preview": "npm run dev"
   },
   "author": "",
   "license": "ISC",

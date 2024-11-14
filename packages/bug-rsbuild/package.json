@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "rsbuild dev",
-    "build": "rsbuild build"
+    "build": "rsbuild build",
+    "preview": "rsbuild preview"
   },
   "author": "",
   "license": "ISC",

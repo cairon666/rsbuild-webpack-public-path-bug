@@ -7,7 +7,7 @@
     "host": "npm run dev -w ./packages/host",
     "bug": "npm run dev -w ./packages/bug-rsbuild",
     "ok": "npm run dev -w ./packages/ok-webpack",
-    "dev": "lerna run dev --stream --parallel"
+    "dev": "lerna run preview --stream --parallel"
   },
   "author": "",
   "license": "ISC",
