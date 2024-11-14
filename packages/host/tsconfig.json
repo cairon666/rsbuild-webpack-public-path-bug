@@ -1,0 +1,10 @@
+{
+    "extends": "../../tsconfig.json",
+    "compilerOptions": {
+        "types": ["./src/types.d.ts"]
+    },
+    "include": [
+        "./src/**/*",
+        "webpack.config.ts"
+    ]
+}

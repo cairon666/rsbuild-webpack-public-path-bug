@@ -1,0 +1,16 @@
+{
+  "name": "bug-rsbuild",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "rsbuild dev",
+    "build": "rsbuild build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
